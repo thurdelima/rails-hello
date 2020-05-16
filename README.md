@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <img alt="Rails"
-    src="https://avatars.githubusercontent.com/u/4223" width="100%"/>
+    src="https://avatars.githubusercontent.com/u/4223" width="100%" height="300px"/>
 </h3>
 <hr/>
 
