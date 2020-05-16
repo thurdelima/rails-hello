@@ -4,9 +4,11 @@
 
 <h3 align="center">
   <img alt="Rails"
-    src="https://avatars.githubusercontent.com/u/4223" width="380px"/>
+    src="https://avatars.githubusercontent.com/u/4223" width="100%"/>
 </h3>
 <hr/>
+
+![alt text](https://raw.githubusercontent.com/thurdelima/rails-hello/master/hello_rails.gif)
 
 
 ## 💡 About repository:
