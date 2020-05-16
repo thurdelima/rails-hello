@@ -1,24 +1,46 @@
-# README
+<h2 align="center">
+  💎 Simple CRUD with Ruby on Rails
+</h2>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h3 align="center">
+  <img alt="Rails"
+    src="https://avatars.githubusercontent.com/u/4223" width="380px"/>
+</h3>
+<hr/>
 
-Things you may want to cover:
 
-* Ruby version
+## 💡 About repository:
 
-* System dependencies
+Project in Ruby on Rails for to practice language and framework
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+## 🏁 To run project:
 
-* How to run the test suite
+Clone project:
 
-* Services (job queues, cache servers, search engines, etc.)
+```bash
+$ git clone https://github.com/thurdelima/rails-hello
+```
 
-* Deployment instructions
+cd `rails-hello` and:
 
-* ...
+```bash
+sudo yarn or yarn
+```
+
+to start:
+
+```bash
+sudo rails server or rails server
+```
+
+<br/>
+
+<h4 align="center">
+  ---
+
+Made with ♥ by Arthur Lima :wave: [Get in touch!](https://www.linkedin.com/in/arthur-lima-294ab0103/)
+</h4>
+
+<br/>
