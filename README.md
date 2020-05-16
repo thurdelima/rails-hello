@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <img alt="Rails"
-    src="https://avatars.githubusercontent.com/u/4223" width="100%" height="450px"/>
+    src="https://ricardofideles.com.br/wp-content/uploads/2016/01/rubyrails.png" width="100%" height="450px"/>
 </h3>
 <hr/>
 
